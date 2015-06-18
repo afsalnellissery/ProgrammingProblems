@@ -18,3 +18,6 @@ class myclass:
 call = myclass()
 call.isPrime(11);
 
+
+print("Thank you");
+
